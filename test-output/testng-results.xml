@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="257" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="257" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+      <class name="org.testsample.Testinng">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="beforeclass" is-config="true" duration-ms="44" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc03()[pri:-5, instance:org.testsample.Testinng@66a3ffec]" name="tc03" duration-ms="14" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="aftermethod" is-config="true" duration-ms="2" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="tc04()[pri:-4, instance:org.testsample.Testinng@66a3ffec]" name="tc04" duration-ms="4" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="beforemethod" is-config="true" duration-ms="0" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="aftermethod" is-config="true" duration-ms="1" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="beforemethod" is-config="true" duration-ms="15" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="tc02" duration-ms="7" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="aftermethod" is-config="true" duration-ms="1" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="beforemethod" is-config="true" duration-ms="0" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc05()[pri:3, instance:org.testsample.Testinng@66a3ffec]" name="tc05" duration-ms="34" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="aftermethod" is-config="true" duration-ms="1" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:org.testsample.Testinng@66a3ffec]" name="afterclass" is-config="true" duration-ms="1" started-at="2021-04-28T05:53:01Z" finished-at="2021-04-28T05:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- org.testsample.Testinng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
