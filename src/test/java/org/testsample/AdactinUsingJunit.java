@@ -13,6 +13,12 @@ public class AdactinUsingJunit extends BaseClass {
 
 	@BeforeClass
 	public static void beforeClass() {
+		
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
+		System.out.println("hello");
 		browserconfig();
 		launchUrl("http://adactinhotelapp.com/index.php");
 	}
